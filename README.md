@@ -1,4 +1,4 @@
-# How to remove Laravel Herd Pro
+# How to use Laravel Herd Pro
 
  1. Install Laravel Herd
  2. Close Laravel herd
