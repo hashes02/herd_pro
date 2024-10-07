@@ -9,4 +9,6 @@
  5. Open the app folder as an administrator in VScode
  6. Press **Shift + CTRL + F**
  7. Search for **beforeRouteEnter** Replace await **window.api.licensing.hasValidLicense()** with **true**
- 8. Save the file, run Herd and Enjoy
+ 8. Save the file
+ 9. Run `npx asar pack app app.asar` (optional)
+ 10.  run Herd and Enjoy
