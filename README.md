@@ -1,7 +1,7 @@
 # How to use Laravel Herd Pro
 
  1. Install Laravel Herd
- 2. Close Laravel herd
+ 2. Run HERD, install the packages and Close Laravel herd
  3.  Open CMD as a administrator
  4. Run 
 	    `cd C:\Program Files\Herd\resources`	
